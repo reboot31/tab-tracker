@@ -7,7 +7,7 @@
 
 # clone the github repository using the command
 
-  git clone <ssl-url>
+  git clone \<ssl-url\>
   
 
 # initialize the project using the command
