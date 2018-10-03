@@ -1,11 +1,11 @@
 # tab-tracker
 A Vue-JS Express-JS webApp tab tracker
 
-#Create a new project using the command
+# Create a new project using the command
 
 npm install -g vue-cli
 
-#clone the github repository using the command
+# clone the github repository using the command
 
 git clone ssl-url
 
@@ -15,6 +15,6 @@ vue init <template> <project-name>
 
 for e.g. vue init webpack my-demo-vue-app
 
-we can see the available templates using the command
+# we can see the available templates using the command
 
 vue list
