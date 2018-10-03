@@ -12,7 +12,7 @@
 
 # initialize the project using the command
 
-  vue init <template> <project-name>
+  vue init \<template\> \<project-name\>
 
   for e.g. vue init webpack my-demo-vue-app
 
